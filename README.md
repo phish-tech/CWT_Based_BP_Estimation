@@ -6,6 +6,14 @@ This repository provides an open-source implementation of the **PPG Continuous W
 
 > **Note:** This repository focuses strictly on CWT data construction and reproducible preprocessing. Model training is not included in this scope but can be extended based on the output of this pipeline.
 
+Resources (资源导航)
+
+📄 Paper (论文): *A U-net and Transformer Paralleled Network for Robust Cuffless Blood Pressure Estimation*（IEEE SMC 2025 Oral）
+
+📚 Dataset (数据集): [Google Drive Link](https://drive.google.com/file/d/18A8FjLt1Rdqz5PqMomooJ_-frzGzl2yB/view?usp=drive_link)
+
+👨‍🎓 Author (作者主页): [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=TJ2_Fq8AAAAJ)
+
 ---
 
 ## 1. Project Structure
@@ -209,13 +217,6 @@ This repo prioritizes **numerical and tensor-construction consistency**. Visuali
 If you use this preprocessing implementation, please cite the associated paper:
 
 - *A U-net and Transformer Paralleled Network for Robust Cuffless Blood Pressure Estimation* (IEEE SMC 2025 Oral, no index available yet, please star this project to stay updated)
-
----
-
-## 10. License
-
-Choose a license (e.g., MIT or Apache-2.0).
-If the MIMIC-II derived data cannot be redistributed, clearly document the data access and usage restrictions.
 
 ---
 
@@ -432,10 +433,15 @@ dataFile = fullfile('..','data','dataset_MIMICII.mat');
 
 ---
 
-## 10. License
+## 10. 资源导航（Resources）
 
-建议选择 MIT / Apache-2.0 等开源协议。
-若 MIMIC-II 派生数据不便公开，请明确数据获取方式与使用限制。
+Resources (资源导航)
+
+📄 Paper (论文): 暂未上线，等待更新 
+
+📚 Dataset (数据集): [Google Drive Link](https://drive.google.com/file/d/18A8FjLt1Rdqz5PqMomooJ_-frzGzl2yB/view?usp=drive_link)
+
+👨‍🎓 Author (作者主页): [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=TJ2_Fq8AAAAJ)
 
 
 

@@ -429,7 +429,7 @@ dataFile = fullfile('..','data','dataset_MIMICII.mat');
 
 如果你使用了本仓库的预处理实现，请引用对应论文：
 
-- *A U-net and Transformer Paralleled Network for Robust Cuffless Blood Pressure Estimation*（IEEE SMC 2025，暂未上限，等待后续补充地址，请先收藏这个github项目，等待1月末上线）
+- *[A U-net and Transformer Paralleled Network for Robust Cuffless Blood Pressure Estimation*（IEEE SMC 2025）](https://ieeexplore.ieee.org/abstract/document/11342438)
 
 ---
 
@@ -437,7 +437,7 @@ dataFile = fullfile('..','data','dataset_MIMICII.mat');
 
 Resources (资源导航)
 
-📄 Paper (论文): 暂未上线，等待更新 
+📄 Paper (论文): [IEEE SMC 2025 (oral)](https://ieeexplore.ieee.org/abstract/document/11342438)
 
 📚 Dataset (数据集): [Google Drive Link](https://drive.google.com/file/d/18A8FjLt1Rdqz5PqMomooJ_-frzGzl2yB/view?usp=drive_link)
 

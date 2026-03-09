@@ -14,6 +14,8 @@ Resources (资源导航)
 
 👨‍🎓 Author (作者主页): [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=TJ2_Fq8AAAAJ)
 
+<img width="1003" height="726" alt="image" src="https://github.com/user-attachments/assets/845718d4-b954-4447-81ea-def6ccb24817" />
+
 ---
 
 ## 1. Project Structure

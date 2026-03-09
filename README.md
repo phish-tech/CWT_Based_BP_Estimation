@@ -1,4 +1,4 @@
-# CWT-based PPG Preprocessing (PPG → CWT-PPG 2D Feature)
+# CWT-based PPG Preprocessing (PPG → CWT-PPG 2D Feature) （中文版本在下方）
 
 This repository provides an open-source implementation of the **PPG Continuous Wavelet Transform (CWT, Complex Morlet)** preprocessing pipeline aimed at cuffless blood pressure estimation tasks.
 
